@@ -49,8 +49,6 @@
 🏅 **CodeChef 3-Star Rating**
 
 
-
-]
 ---
 
 ## 📫 Let's Connect
