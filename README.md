@@ -63,29 +63,3 @@ I specialize in building scalable, high-performance web applications using moder
 ---  
 
 💡 *"Passionate about crafting solutions, innovating with technology, and making an impact—one project at a time!"* 🚀  
-
-<style>
-  .transition-text {
-    opacity: 0;
-    display: inline-block;
-    animation: fadeIn 1s forwards;
-  }
-
-  .transition-text:nth-child(1) {
-    animation-delay: 0.5s;
-  }
-
-  .transition-text:nth-child(2) {
-    animation-delay: 1.5s;
-  }
-
-  .transition-text:nth-child(3) {
-    animation-delay: 2.5s;
-  }
-
-  @keyframes fadeIn {
-    to {
-      opacity: 1;
-    }
-  }
-</style>
