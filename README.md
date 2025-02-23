@@ -1,5 +1,6 @@
+
 # **👋 Hi, I'm Yaswanth!**  
-🚀 **<span class="transition-text">Full Stack Developer</span> | <span class="transition-text">Problem Solver</span> | <span class="transition-text">Tech Enthusiast</span>**
+🚀 **Full Stack Developer | Problem Solver | Tech Enthusiast**
 
 I specialize in building scalable, high-performance web applications using modern technologies. Passionate about **MERN stack**, **cloud computing**, and **AI-driven applications**, I love solving real-world problems through technology and open-source contributions.
 
@@ -16,9 +17,9 @@ I specialize in building scalable, high-performance web applications using moder
 
 ## **🏆 Achievements & Certifications**
 
-✅ **Top 50 Finalist - STACKHACK 2.0 by Mercer**  
-✅ **AI/ML Virtual Internship - Google & AICTE**  
-✅ **AWS Virtual Internship - AICTE**  
+🏆 **Top 50 Finalist - STACKHACK 2.0 by Mercer**  
+🎖️ **AI/ML Virtual Internship - Google & AICTE**  
+🎖️ **AWS Virtual Internship - AICTE**  
 💻 **Solved 300+ Problems on LeetCode**  
 🏅 **3-Star Coder on CodeChef**  
 
@@ -30,7 +31,6 @@ I specialize in building scalable, high-performance web applications using moder
 |------------|--------------|---------------|
 | 🌾 **FarmDirect** | A platform connecting farmers directly with consumers for fresh produce. | MERN Stack |
 | 🍽️ **Restaurant Finder** | Location-based restaurant discovery and filtering. | MERN Stack + Geolocation API |
-| ☁️ **CloudSync** | Secure cloud storage solution with AI-based file organization. | Node.js, AWS S3, React |
 
 🔗 **[Explore all my projects](#)**  
 
@@ -51,6 +51,13 @@ I specialize in building scalable, high-performance web applications using moder
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---  
+
+## **📊 GitHub Stats**
+
+![Yaswanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---  
 
